@@ -1,1 +1,1 @@
-# Self driving car usning Nvidia jetson nano
+# Self driving car using Nvidia jetson nano
