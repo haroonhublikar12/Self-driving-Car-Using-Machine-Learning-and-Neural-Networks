@@ -7,7 +7,7 @@ It uses Nvidia Jetson Nano as the main onboard computer for performing all the A
 
 ## Setup
 
-To get started with JetRacer, follow these steps
+To get started with this project, follow these steps
 
 1. Order parts from the list of materials below
 
