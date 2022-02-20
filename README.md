@@ -7,4 +7,4 @@
 
 
 
-<img src="images/running.gif" >
+<img src="images/running.gif" width="600" >
