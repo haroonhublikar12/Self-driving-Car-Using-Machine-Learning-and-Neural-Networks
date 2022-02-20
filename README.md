@@ -1,5 +1,5 @@
 # Self driving car using Nvidia jetson nano
 
-❮img src="images/"width="100" ❯
+❮img src="images/parts.jpeg"width="100" ❯
 
 
