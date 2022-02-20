@@ -9,10 +9,13 @@ It uses Nvidia Jetson Nano as the main onboard computer for performing all the A
 
 To get started with JetRacer, follow these steps
 
-1. Order parts from the bill of materials
+1. Order parts from the list of materials below
 
-    - [Latrax version](docs/latrax/bill_of_materials.md) 
-    - [Tamiya version](docs/tamiya/bill_of_materials.md) 
+    - 1x Nvidia jetson nano 4gb version
+    - 1x Micro SD Card 64gb (buy class 10 only)
+    - 1x Waveshare IMX219-160 Camera, 160c FOV camera (170° FOV will work as well)
+    - Wltoys A969 RC Car 1:18 Scale 2.4GHz RTR 4WD Short Course Truck (you can use any rc car/scale)
+    - 
 
 2. Follow the hardware setup
 
