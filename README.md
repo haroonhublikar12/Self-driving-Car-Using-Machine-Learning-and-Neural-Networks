@@ -21,7 +21,7 @@ To get started with JetRacer, follow these steps
     - Female to Female jumper cables
     - 1x PCA9685 PWM Servo Motor Driver
     - 1x 7.4v 5000mah li-ion battery or 11.1v 3000mah 30c lipo battery depending on your car and speed controller
-    - 1x 4mm arylic sheet for mounting all the parts and making camera mount arm
+    - 1x 4mm arylic sheet for mounting all the parts and making the camera mount arm
     - 4X M3 40mm standoff 
     - 1x M3 8mm screw pack
     
