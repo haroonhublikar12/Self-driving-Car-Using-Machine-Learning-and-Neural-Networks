@@ -1,7 +1,7 @@
 # Software Setup
 
 
-After finishing these steps, you'll be all set to program JetRacer.  Once you're finished, run through the [examples](examples.md).
+After finishing these steps, you'll be all set to program JetRacer.  Once you're finished, run through the [running the software](Running_the_software.md).
 
 ## Step 1 - Flash micro SD card
 
@@ -78,4 +78,4 @@ To prevent the Jetson Nano from drawing more power than the battery can supply, 
     
 ## Next
 
-Next, follow run through the [examples](examples.md).
+Next, follow run through the [running the software](Running_the_software.md).
