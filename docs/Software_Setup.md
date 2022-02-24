@@ -5,10 +5,11 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
 ## Step 1 - Flash micro SD card
 
-1. Download a JetCard SD card image listed in below table onto a Windows, Linux or Mac *desktop machine*
+1. Download a JetCard SD card image listed in below table in your laptop/desktop.
 2. Insert your micro SD card into the laptop/desktop
-3. Using [Etcher](https://www.balena.io/etcher/) select the downloaded zip file and flash it onto the SD card
-4. Remove the SD card from the laptop/desktop 
+3. Format your micro micro SD card using [SD Memory Card Formatter for Windows](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
+4. Using [Etcher](https://www.balena.io/etcher/) select the downloaded zip file and flash it onto the SD card
+5. Remove the SD card from the laptop/desktop 
 
 ### Latest Release (** **but not yet fully verified** ** )
 
