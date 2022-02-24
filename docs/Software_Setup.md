@@ -32,6 +32,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
 4. Open any web browser in your laptop/desktop, and copy paste this IP address ``192.168.55.1:8888`` in the search bar
 5. Sign in using the default password ``jetson``
+6. Please note: we will be running jetson nano on head-less mode (meaning you won't need display, keyboard and mouse to program your jetson nano). Also never connect your jetson nano to any display, doing this will require you to go through the above process (Power on and connect over USB) again.  
 
 ## Step 2 - Connect JetRacer to WiFi
 
