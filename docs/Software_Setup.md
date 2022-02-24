@@ -6,7 +6,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 ## Step 1 - Flash micro SD card
 
 1. Download a JetCard SD card image listed in below table onto a Windows, Linux or Mac *desktop machine*
-2. Insert your SD card into the laptop/desktop
+2. Insert your micro SD card into the laptop/desktop
 3. Using [Etcher](https://www.balena.io/etcher/) select the downloaded zip file and flash it onto the SD card
 4. Remove the SD card from the laptop/desktop 
 
@@ -18,13 +18,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 | -------- | -------------- | --------------- | -------- |------------- |
 | Jetson Nano (4GB) | `A02` and `B01` | 4.5.1 |  [jetcard_nano-4gb-jp451.zip](https://drive.google.com/file/d/1aPbzQ0_Uja0jVD48oZUAuYYAz10JgbZu/view?usp=sharing) | 3195c91e6069c0418ec3c9736d130d01 |
 
-### Old Release
-
-> Please note that this image is only for the older `A02` revision of Jetson Nano board, which has only one camera (CSI) connector onboard.
-
-| Platform | Board revision | JetPack Version | Download | MD5 Checksum |
-| -------- | -------------- | --------------- | -------- |------------- |
-| Jetson Nano (4GB) | `A02` | 4.2|  [jetcard_v0p0p0.zip](https://drive.google.com/open?id=1wXD1CwtxiH5Mz4uSmIZ76fd78zDQltW_) | f7b635a651e4a2228e3812360cce74e3 | 
+ 
 
 
 ## Step 2 - Power on and connect over USB
