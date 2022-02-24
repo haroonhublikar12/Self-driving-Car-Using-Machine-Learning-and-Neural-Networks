@@ -10,7 +10,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 3. Format your micro micro SD card using [SD Memory Card Formatter for Windows](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
 4. Using [Etcher](https://www.balena.io/etcher/) select the downloaded zip file and flash it onto the SD card
 5. Remove the SD card from the laptop/desktop
-6. If you are confused with how to flash an SD card image [follow this tutorial by NVIDIA](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/) (please note: use the below SD card image only...)
+6. If you are confused with how to flash an SD card image [follow this tutorial by NVIDIA](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)  (please note: use the below SD card image only...)
 
 ### Latest Release 
 
