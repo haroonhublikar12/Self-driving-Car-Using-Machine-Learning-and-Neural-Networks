@@ -61,38 +61,10 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 3. Open a new browser tab and navigate to ``http://<jetson_ip_address>:8888``
 4. Sign in with the password ``jetson``
     
-## Step 5 - Install Python packages
 
->  If you're using the latest JetCard image (targeting JetPack 4.5.1 or later), you can skip this step.  The latest JetCard image comes with these packages pre-installed.
-
-1. Open a terminal and call the following to install the [JetCam](http://github.com/NVIDIA-AI-IOT/jetcam) Python package.
-
-    ```bash
-    cd $HOME
-    git clone https://github.com/NVIDIA-AI-IOT/jetcam
-    cd jetcam
-    sudo python3 setup.py install
-    ```
-    
-2. Execute the following command to install the [torch2trt](http://github.com/NVIDIA-AI-IOT/torch2trt) Python package
-
-    ```bash
-    cd $HOME
-    git clone https://github.com/NVIDIA-AI-IOT/torch2trt
-    cd torch2trt
-    sudo python3 setup.py install
-    ```
-    
-2. Execute the following in a terminal to install the [JetRacer](http://github.com/NVIDIA-AI-IOT/jetracer) package
+   
  
-     ```bash
-     cd $HOME
-     git clone https://github.com/NVIDIA-AI-IOT/jetracer
-     cd jetracer
-     sudo python3 setup.py install
-     ```
- 
-## Step 6 - Set the Jetson Nano to 5W mode
+## Step 5 - Set the Jetson Nano to 5W mode
 
 To prevent the Jetson Nano from drawing more power than the battery can supply, we set it to 5W mode
 
