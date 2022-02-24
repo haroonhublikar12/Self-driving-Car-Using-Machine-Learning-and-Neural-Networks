@@ -32,5 +32,5 @@ To get started with this project, follow these steps
     - [Latrax version](docs/latrax/hardware_setup.md) 
     - [Tamiya version](docs/tamiya/hardware_setup.md) 
 
-3. Follow the [Software setup](docs/software_setup.md)
+3. Follow the [Software Setup](docs/software_setup.md)
 4. Run through the [examples](docs/examples.md)
