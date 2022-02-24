@@ -27,10 +27,10 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
 1. Insert the configured SD card into the Jetson Nano module
 
-2. Power on your jetson nano by connecting battery 
+2. Power on your jetson nano by it to the connecting battery 
 3. Now connect your Jetson Nano to your laptop/desktop via micro USB cable
 
-4. Open any web browser in your laptop/desktop, and copy paste this IP address  ``192.168.55.1:8888`` in the search bar
+4. Open any web browser in your laptop/desktop, and copy paste this IP address ``192.168.55.1:8888`` in the search bar
 5. Sign in using the default password ``jetson``
 
 ## Step 2 - Connect JetRacer to WiFi
