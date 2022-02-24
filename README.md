@@ -18,6 +18,7 @@ To get started with this project, follow these steps
     - 1x 17gram servo for steering if using Wltoys A969 RC Car
     - 1x 20A Brushed Electronic Speed Controller or brushless depending on your car
     - 1x Universal 7 amp BEC (5.0 volt) or you can use dc to dc step down converter (min 4Aamp)
+    - TP-Link USB AC600 600 Mbps WiFi Wireless Network Adapter for Desktop PC with 2.4GHz/5GHz High Gain Dual Band 5dBi Antenna Wi-Fi dongle
     - Female to Female jumper cables
     - 1x PCA9685 PWM Servo Motor Driver
     - 1x 7.4v 5000mah li-ion battery or 11.1v 3000mah 30c lipo battery depending on your car and speed controller
