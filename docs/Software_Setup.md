@@ -1,15 +1,14 @@
 # Software Setup
 
-> If you have built a 3rd-pary Jetracer kit (other than our DIY vehicles based on Latrax Rally or Tamiya TT-02), the following method (and the SD card images) may not work. <br> **Please check the manufacture's instruction on its kit's specific software setup.**
 
 After finishing these steps, you'll be all set to program JetRacer.  Once you're finished, run through the [examples](examples.md).
 
 ## Step 1 - Flash micro SD card
 
 1. Download a JetCard SD card image listed in below table onto a Windows, Linux or Mac *desktop machine*
-2. Insert a 32GB+ SD card into the desktop machine
+2. Insert your SD card into the laptop/desktop
 3. Using [Etcher](https://www.balena.io/etcher/) select the downloaded zip file and flash it onto the SD card
-4. Remove the SD card from the desktop machine
+4. Remove the SD card from the laptop/desktop 
 
 ### Latest Release (** **but not yet fully verified** ** )
 
