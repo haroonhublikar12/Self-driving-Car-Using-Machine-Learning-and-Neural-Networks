@@ -1,6 +1,6 @@
 # Hardware Setup
 
-Follow these instructions to build your own self driving car.  After you've finished, move on to the [Running_the_software.md](docs/Running_the_software.md)
+Follow these instructions to build your own self driving car.  After you've finished, move on to the [Running_the_software.md](./Running_the_software.md)
 
 ## Tools
 
@@ -12,3 +12,6 @@ Follow these instructions to build your own self driving car.  After you've fini
 * Wire strippers
 * Acrylic sheet cutter
 * Hot air gun (heat gun)
+
+
+## Phase 1 - Car disassembly 
