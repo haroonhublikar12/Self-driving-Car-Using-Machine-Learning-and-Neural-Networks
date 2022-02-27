@@ -33,4 +33,4 @@ To get started with this project, follow these steps
     - [Tamiya version](docs/tamiya/hardware_setup.md) 
 
 3. Follow the [Software Setup](docs/Software_Setup.md)
-4. Run through the [examples](docs/examples.md)
+4. Run through the [Running_the_software.md](docs/Running_the_software.md)
