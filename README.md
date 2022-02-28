@@ -28,6 +28,8 @@ To get started with this project, follow these steps
     - 1x 4mm arylic sheet for mounting all the parts and making the camera mount arm
     - 4X M3 40mm standoff 
     - 1x M3 8mm screw pack
+    - 20x M3 nuts
+    - 20x M3 10mm or 8mm standoff
     
 
 2. Follow the hardware setup
