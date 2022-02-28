@@ -35,4 +35,14 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 
+
 <img src="../images/esc solder.jpeg" width="400" >
+
+
+
+
+1. Solder red (motor out) wire to motor's positive terminal.
+ 
+2. Solder black (motor out) wire to motor's negative terminal.
+ 
+3. Attch the new servo motor in place of old servo motor (make sure to center the servo while attcahing the servo horn).
