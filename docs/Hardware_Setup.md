@@ -52,8 +52,8 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 
-## Phase 2 - Base plate/Camera mount
-### Step 1 - Base plate assembly & attaching the components
+## Phase 2 - Base-plate/Camera mount
+### Step 1 - Base-plate assembly & attaching the components
 
 
 
@@ -61,21 +61,32 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 
+1. Cut acrylic base-plate using acrylic cutter. Base-plate should be slightly bigger than the car.
+
+2. Drill all necessary holes for mounting the components & 4 holes for attaching base plate to the car.
+
+3. Attach all the components on top of the base plate using standoff. 
+ 
+
+
+### Step 2 - Camera mount
 
 
 
 
+<img src="../images/camera mount.jpeg" width="500" >
 
 
 
+1. Using acrylic cutter cut a piece of acrylic roughly 5cm in width and 20cm in length.
 
+2. Heat the acrylic cutout and bend the top 5cm to a point where, camera points towards the ground.
+ 
+3. Also bend 4cm of the bottom end. This bend should be right angle. This will help us place and stick camera mount to the base-plate.    
 
+4. Align camera mount at the center of the base plate and stick it to the very front of the base-plate. Use very little super glue for this.  
 
-
-
-
-
-
+5. Design can be subjective and you can make any design.
 
 
 
