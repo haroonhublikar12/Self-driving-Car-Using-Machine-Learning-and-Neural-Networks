@@ -53,7 +53,7 @@ Interactive Regression is used to train the robot. It is the machine learning pa
 3. Once we have collected images of the track while following the center of the track, we need offet images; i.e. images from outside the track.
 4. We are basically telling the robot what it should do in situations where robot ran off the track. Keep the robot offset/outside the track and click on the center of the track as we did earlier. This way the robot will return on the center of the track even if it went outside the track.
 5. Corners are very important, make sure you train your robot with ample of images on-track and off-track as well.
-6. Make sure you take atleast 400 images all combined. Avoid clicking wrong images.
+6. Make sure you take at least 400 images all combined. Avoid clicking wrong images.
 7. Once you have enough images in dataset A, go to the training part and keep the epochs to 15 and click on the train button.
 8. When the training is completed click on the save model button, this will save your trained dataset in a file named road_following_model.pth
 9. You are now done with training the model with the dataset (images) that you gave it. Close the interactive regression notebook. 
