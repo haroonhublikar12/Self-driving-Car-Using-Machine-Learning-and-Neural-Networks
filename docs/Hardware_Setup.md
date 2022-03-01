@@ -46,3 +46,34 @@ Follow these instructions to build your own self driving car.  After you've fini
 2. Solder black (motor out) wire from esc to motor's negative terminal.
  
 3. Attch the new servo motor in place of old servo motor (make sure to center the servo while attcahing the servo horn).
+
+
+
+## Phase 2 - Car wiring
+### Basic wiring diagram & connections
+
+
+<img src="../images/circuit diagram.jpg" width="1000" >
+
+
+1. Connect battery to esc as well as to the ubec/stepdown controller.
+ 
+2. Connect ubec/stepdown controller +ve and -ve wires to the jetson nano's 5v pin and gnd pin respectively.
+ 
+3. Connect gnd pin of servo controller to jetson nano's gnd pin.
+ 
+4. Connect VCC pin of servo controller to jetson nano's 3.3V pin.
+ 
+5. Connect SCL pin of servo controller to jetson nano's SCL pin.
+ 
+6. Connect SDA pin of servo controller to jetson nano's SDA pin.
+ 
+7. Connect 3 pin servo cable to the pin 0 of servo controller.
+ 
+8. Connect 3 pin esc cable to the pin 1 of servo controller.
+ 
+9. Connect camera cable to the jetson nano (you can use any one of the two provided connectors on jetson nano).
+ 
+10. Make sure ground is common in the entire circuit.
+ 
+11. With this, wirin is completed.
