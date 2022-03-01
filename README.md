@@ -10,7 +10,7 @@ It uses Nvidia Jetson Nano as the main onboard computer for performing all the A
 To get started with this project, follow these steps
 
 
-<img src="images/parts.jpeg" width="400" >
+<img src="images/parts.jpeg" width="500" >
 
 1. Order parts from the list of materials below
 
@@ -36,10 +36,10 @@ To get started with this project, follow these steps
 
 2. Follow the hardware setup
 
-    - [Hardware_Setup.md](docs/Hardware_Setup.md) 
+    - [Hardware_Setup](docs/Hardware_Setup.md). 
    
     
     
     
-3. Follow the [Software Setup](docs/Software_Setup.md)
-4. Run through the [Running_the_software.md](docs/Running_the_software.md)
+3. Follow the [Software Setup](docs/Software_Setup.md).
+4. Run through the [Running_the_software](docs/Running_the_software.md).
