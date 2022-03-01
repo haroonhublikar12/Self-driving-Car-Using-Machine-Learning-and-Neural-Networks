@@ -56,8 +56,9 @@ Follow these instructions to build your own self driving car.  After you've fini
 ### Step 1 - Base-plate assembly & attaching the components
 
 
-
-<img src="../images/main base plate1.jpeg" width="500" >
+<a></a>
+<img src="../images/main base plate1.jpeg" width="437" >
+<img src="../images/completed mounting.jpg" width="500" >
 
 
 
@@ -119,5 +120,7 @@ Follow these instructions to build your own self driving car.  After you've fini
 9. Connect camera cable to the jetson nano (you can use any one of the two provided connectors on jetson nano).
  
 10. Make sure ground is common in the entire circuit.
+
+11. You can also add a switch beetween battery and ubec/stepdown controller/esc.
  
-11. With this, wiring is completed.
+12. With this, wiring is completed.
