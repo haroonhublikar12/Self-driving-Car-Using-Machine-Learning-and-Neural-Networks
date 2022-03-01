@@ -36,7 +36,7 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 
-<img src="../images/" width="400" >
+<img src="../images/esc solder.jpeg" width="400" >
 
 
 
