@@ -36,7 +36,7 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 
-<img src="../images/esc solder.jpeg" width="400" >
+<img src="../images/" width="400" >
 
 
 
@@ -109,4 +109,4 @@ Follow these instructions to build your own self driving car.  After you've fini
  
 10. Make sure ground is common in the entire circuit.
  
-11. With this, wiring is completed
+11. With this, wiring is completed.
