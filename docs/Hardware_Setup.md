@@ -157,7 +157,13 @@ Follow these instructions to build your own self driving car.  After you've fini
 <img src="../images/finished car 2.jpg" width="500" >
 
 
+
 * After following the above steps your robot should look something like this.
 
 
+
+
+## Next
+
+Next, follow the [Running_the_software.md](./Running_the_software.md).
 
