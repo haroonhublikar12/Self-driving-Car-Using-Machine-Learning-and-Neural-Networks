@@ -36,7 +36,7 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 
-<img src="../images/esc solder.jpeg" width="400" >
+<img src="../images/esc solder1.jpeg" width="400" >
 
 
 
@@ -53,7 +53,7 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 ## Phase 2 - Base plate/Camera mount
-### Base plate assembly & attaching the components
+### Step 1 - Base plate assembly & attaching the components
 
 
 
