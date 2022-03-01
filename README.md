@@ -37,10 +37,10 @@ To get started with this project, follow these steps
 
 2. Follow the hardware setup
 
-    - [Hardware_Setup](docs/Hardware_Setup.md). 
+    - [Hardware Setup](docs/Hardware_Setup.md). 
    
     
     
     
 3. Follow the [Software Setup](docs/Software_Setup.md).
-4. Run through the [Running_the_software](docs/Running_the_software.md).
+4. Run through the [Running the software](docs/Running_the_software.md).
