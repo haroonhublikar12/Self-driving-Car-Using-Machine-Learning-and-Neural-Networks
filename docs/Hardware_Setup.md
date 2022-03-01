@@ -49,7 +49,40 @@ Follow these instructions to build your own self driving car.  After you've fini
 
 
 
-## Phase 2 - Car wiring
+
+
+
+## Phase 2 - Base plate/Camera mount
+### Base plate assembly & attaching the components
+
+
+
+<img src="../images/main base plate1.jpeg" width="500" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Phase 3 - Car wiring
 ### Basic wiring diagram & connections
 
 
