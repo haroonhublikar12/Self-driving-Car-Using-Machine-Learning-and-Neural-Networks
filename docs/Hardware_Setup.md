@@ -124,3 +124,40 @@ Follow these instructions to build your own self driving car.  After you've fini
 11. You can also add a switch beetween battery and ubec/stepdown controller/esc.
  
 12. With this, wiring is completed.
+
+
+
+
+
+## Phase 4 - Attaching base plate to the chasis/Final build
+### Attaching base plate to the chasis
+
+
+
+
+
+<img src="../images/assembly 1.jpg" width="500" >
+
+
+1. Using 4 long standoff attached to the base-plate earlier, mark points on the chasis where these standoffs will be attached.  
+
+2. Drill all these holes and attach the base-plate to the chasis using 4 M3 bolts.
+
+3. Battery can be mounted on the car chasis, so make sure you drill holes accordingly.
+
+
+
+
+### Final build
+
+
+
+<a></a>
+<img src="../images/finished car.jpeg" width="475" >
+<img src="../images/finished car 2.jpg" width="500" >
+
+
+* After following the above steps your robot should look something like this.
+
+
+
