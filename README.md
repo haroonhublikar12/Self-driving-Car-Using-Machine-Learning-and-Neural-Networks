@@ -32,6 +32,7 @@ To get started with this project, follow these steps
     - 1x M3 8mm screw pack
     - 20x M3 nuts
     - 20x M3 10mm or 8mm standoff
+    - A track to run your car on (we printed our track on a flex banner 18x10 feet)
     
 
 2. Follow the hardware setup
