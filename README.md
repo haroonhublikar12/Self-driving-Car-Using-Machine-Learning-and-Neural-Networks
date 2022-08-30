@@ -10,7 +10,7 @@ It uses Nvidia Jetson Nano as the main onboard computer for performing all the A
 To get started with this project, follow these steps
 
 
-
+<img src="/images/parts.jpeg" height="300" >
 
 1. Order parts from the list of materials below
 
