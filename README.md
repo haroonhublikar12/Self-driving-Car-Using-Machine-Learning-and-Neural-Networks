@@ -1,6 +1,6 @@
 # Self driving car using Nvidia jetson nano
 
-<img src="images/running.gif" height="400" >
+<img src="images/running.gif" height="380" >
 
 This self-driving car uses AI, Machine Learning & Neural Networks to drive autonomously on a track. 
 It uses Nvidia Jetson Nano as the main onboard computer for performing all the AI, Machine Learning & Neural Networks tasks.
