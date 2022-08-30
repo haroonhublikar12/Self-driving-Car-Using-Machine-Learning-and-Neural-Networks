@@ -15,7 +15,7 @@ In this example we'll show how to calibrate and test the robot programatically f
 
 
 
-<img src="../images/basicmotion.png" width="1000" >
+<img src="../images/basicmotion.png" width="800" >
 
 
 
@@ -40,7 +40,7 @@ In this example we'll show how to calibrate and test the robot programatically f
 Interactive Regression is used to train the robot. It is the machine learning part of this project. Make sure your robot's battery is fully charged before running through this step.
 
 
-<img src="../images/interactiveregression.png" width="1000" >
+<img src="../images/interactiveregression.png" width="800" >
 
 
 
@@ -81,7 +81,7 @@ Interactive Regression is used to train the robot. It is the machine learning pa
 
 
 
-<img src="../images/roadfollowing.png" width="1000" >
+<img src="../images/roadfollowing.png" width="800" >
 
 
 
