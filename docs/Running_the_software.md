@@ -47,7 +47,7 @@ Interactive Regression is used to train the robot. It is the machine learning pa
 1. Run all the cells until cell 6. Do not run cell 7 as it causes system to freeze.
 2. Now we need to collect and label the data. Place the robot on the track and start clicking on the ideal line that your robot would follow. I have attached an example gif on how to collect data [source: NVIDIA jetracer repository github](https://github.com/NVIDIA-AI-IOT/jetracer). 
 
-<img src="../images/example.gif" height="300" >
+<img src="../images/example.gif" height="280" >
 
 
 3. Once we have collected images of the track while following the center of the track, we need offset images; i.e. images from outside the track.
