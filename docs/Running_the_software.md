@@ -15,7 +15,7 @@ In this example we'll show how to calibrate and test the robot programatically f
 
 
 
-<img src="../images/basicmotion.png" width="800" >
+<img src="../images/basicmotion.png" width="1000" >
 
 
 
@@ -40,14 +40,14 @@ In this example we'll show how to calibrate and test the robot programatically f
 Interactive Regression is used to train the robot. It is the machine learning part of this project. Make sure your robot's battery is fully charged before running through this step.
 
 
-<img src="../images/interactiveregression.png" width="800" >
+<img src="../images/interactiveregression.png" width="1000" >
 
 
 
 1. Run all the cells until cell 6. Do not run cell 7 as it causes system to freeze.
 2. Now we need to collect and label the data. Place the robot on the track and start clicking on the ideal line that your robot would follow. I have attached an example gif on how to collect data [source: NVIDIA jetracer repository github](https://github.com/NVIDIA-AI-IOT/jetracer). 
 
-<img src="../images/example.gif" width="500" >
+<img src="../images/example.gif" width="400" >
 
 
 3. Once we have collected images of the track while following the center of the track, we need offset images; i.e. images from outside the track.
@@ -81,7 +81,7 @@ Interactive Regression is used to train the robot. It is the machine learning pa
 
 
 
-<img src="../images/roadfollowing.png" width="800" >
+<img src="../images/roadfollowing.png" width="1000" >
 
 
 
