@@ -1,4 +1,4 @@
-# Self driving car using Nvidia jetson nano
+# Self Driving Car Using Machine Learning And Neural Networks
 
 <img src="images/running.gif" height="380" >
 
