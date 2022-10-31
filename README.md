@@ -1,4 +1,4 @@
-# Self-Driving Car Using Machine Learning and Neural Networks
+# Self-driving Car Using Machine Learning and Neural Networks
 
 <img src="images/running.gif" height="380" >
 
